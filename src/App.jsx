@@ -22,7 +22,7 @@ return(
 
 <Hero/>
 
-<About/>
+<about/>
 
 <Menu/>
 
