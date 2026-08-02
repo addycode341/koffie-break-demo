@@ -1,6 +1,6 @@
 import Navbar from "./components/koffie/Navbar";
 import Hero from "./components/koffie/Hero";
-import about from "./components/koffie/About";
+import about from "./components/koffie/about";
 import Menu from "./components/koffie/Menu";
 import WhyChoose from "./components/koffie/WhyChoose";
 import Gallery from "./components/koffie/Gallery";
