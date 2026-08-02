@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Coffee, MapPin, Clock } from "lucide-react";
 
 
-function about(){
+function About(){
 
 
 return(
@@ -452,4 +452,4 @@ Open Everyday • 10 AM - 11 PM
 }
 
 
-export default about;
+export default About;
