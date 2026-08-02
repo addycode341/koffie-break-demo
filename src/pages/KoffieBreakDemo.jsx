@@ -1,6 +1,6 @@
 import Navbar from "../components/koffie/Navbar";
 import Hero from "../components/koffie/Hero";
-import about from "../components/koffie/about";
+import About from "../components/koffie/About";
 import Menu from "../components/koffie/Menu";
 import Gallery from "../components/koffie/Gallery";
 import WhyChoose from "../components/koffie/WhyChoose";
@@ -19,7 +19,7 @@ return(
 
 <Hero/>
 
-<about/>
+<About/>
 
 <Menu/>
 

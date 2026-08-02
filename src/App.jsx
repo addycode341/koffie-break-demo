@@ -1,6 +1,6 @@
 import Navbar from "./components/koffie/Navbar";
 import Hero from "./components/koffie/Hero";
-import about from "./components/koffie/about";
+import About from "./components/koffie/About";
 import Menu from "./components/koffie/Menu";
 import WhyChoose from "./components/koffie/WhyChoose";
 import Gallery from "./components/koffie/Gallery";
@@ -12,7 +12,6 @@ import WhatsAppButton from "./components/WhatsAppButton";
 
 function App(){
 
-const About = about;
 
 return(
 
@@ -22,7 +21,7 @@ return(
 
 <Hero/>
 
-<about/>
+<About/>
 
 <Menu/>
 
@@ -35,7 +34,9 @@ return(
 <Contact/>
 
 <Footer/>
-<WhatsAppButton/> 
+
+<WhatsAppButton/>
+
 </>
 
 )
